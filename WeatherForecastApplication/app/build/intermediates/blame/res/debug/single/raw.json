@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/raw/lb_voice_failure.ogg",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/raw/lb_voice_failure.ogg"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/raw/lb_voice_open.ogg",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/raw/lb_voice_open.ogg"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/raw/lb_voice_no_input.ogg",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/raw/lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/raw/lb_voice_success.ogg",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/raw/lb_voice_success.ogg"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi/app_icon_quantum_card.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xxhdpi/app_icon_quantum_card.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi/videos_by_google_icon.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xxhdpi/videos_by_google_icon.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi/videos_by_google_banner.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xxhdpi/videos_by_google_banner.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi/appicon.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xxhdpi/appicon.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi/app_icon_quantum.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xxhdpi/app_icon_quantum.png"
+    }
+]

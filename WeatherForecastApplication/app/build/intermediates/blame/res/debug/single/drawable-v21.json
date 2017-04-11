@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/drawable-v21/lb_action_bg.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/lb_card_foreground.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/drawable-v21/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/lb_control_button_primary.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/lb_selectable_item_rounded_rect.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/drawable-v21/lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

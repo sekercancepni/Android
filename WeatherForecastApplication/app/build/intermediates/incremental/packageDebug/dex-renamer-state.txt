@@ -1,0 +1,7 @@
+#Mon Feb 06 21:21:46 EET 2017
+base.0=/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a99be44417a73eaf06c4e54be0b349d560ed3119
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0adc358636550469fd9a48819c27382263a90c6a/classes.dex
+base.1=/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0adc358636550469fd9a48819c27382263a90c6a
+file.0=/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a99be44417a73eaf06c4e54be0b349d560ed3119/classes.dex

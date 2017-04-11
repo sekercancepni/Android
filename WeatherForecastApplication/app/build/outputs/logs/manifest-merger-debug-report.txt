@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:6:22-68
+uses-feature#android.hardware.touchscreen
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:9:9-52
+uses-feature#android.software.leanback
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:12:9-49
+application
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:15:5-37:19
+MERGED from [com.android.support:leanback-v17:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:18:9-36
+	android:supportsRtl
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:17:9-41
+	android:theme
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:20:9-46
+activity#com.example.sekercan.weatherforecastapplication.MainActivity
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:21:9-33:20
+	android:screenOrientation
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:27:13-50
+	android:label
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:25:13-45
+	android:icon
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:24:13-59
+	android:banner
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:23:13-61
+	android:logo
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:26:13-59
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:31:17-86
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:31:27-83
+activity#com.example.sekercan.weatherforecastapplication.DetailsActivity
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:34:19-50
+activity#com.example.sekercan.weatherforecastapplication.PlaybackOverlayActivity
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:35:9-61
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:35:19-58
+activity#com.example.sekercan.weatherforecastapplication.BrowseErrorActivity
+ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:36:9-57
+	android:name
+		ADDED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml:36:19-54
+uses-sdk
+INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:leanback-v17:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/AndroidManifest.xml

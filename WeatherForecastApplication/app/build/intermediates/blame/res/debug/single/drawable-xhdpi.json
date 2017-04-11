@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/app_icon_quantum.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/app_icon_quantum.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_play_action_pressed.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_play_action_pressed.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_pause_playcontrol_normal.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_pause_playcontrol_normal.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/videos_by_google_icon.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/videos_by_google_icon.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/star_icon.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/star_icon.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_pause_playcontrol_pressed.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_pause_playcontrol_pressed.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/grid_bg.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/grid_bg.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_play_playcontrol_normal.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_play_playcontrol_normal.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_play_action_focussed.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_play_action_focussed.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_play_playcontrol_pressed.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_play_playcontrol_pressed.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/app_icon_quantum_card.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/app_icon_quantum_card.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_play_action_normal.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_play_action_normal.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_play_playcontrol_focussed.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_play_playcontrol_focussed.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/videos_by_google_banner.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/videos_by_google_banner.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_pause_playcontrol_focussed.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/ic_pause_playcontrol_focussed.png"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi/movie.png",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/src/main/res/drawable-xhdpi/movie.png"
+    }
+]

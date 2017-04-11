@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="tvdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="234719083549268"
+    token="-4656498764691844471"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="8033" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1782" />
+    <task
+        name="verifier"
+        duration="30" />
+
+    <artifact
+        location="/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="234719083549268"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

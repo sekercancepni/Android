@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/res/merged/debug/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/home/sekercan/AndroidStudioProjects/WeatherForecastApplication/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/25.1.0/res/animator-v21/lb_playback_bg_fade_in.xml"
+    }
+]

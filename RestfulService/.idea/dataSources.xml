@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1414880758">
+    <data-source source="LOCAL" name="PostgreSQL - booksharing@localhost" uuid="f5191baf-97f0-4f62-b8ef-8c680e22952c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/booksharing</jdbc-url>
+    </data-source>
+  </component>
+</project>

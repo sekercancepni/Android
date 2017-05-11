@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <include layout="@layout/header"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:visibility="visible" />
+
+    <include layout="@layout/home_page"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:visibility="visible" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/scrollview">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/ic_launcher"
+                    android:id="@+id/book_image"
+                    android:paddingLeft="20dp"
+                    android:layout_marginTop="20dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginLeft="10dp">
+
+                    <TextView
+                        android:text="Book Detail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/book_name"
+                        android:textSize="22sp"
+                        android:textStyle="normal|bold"
+                        android:textColor="@android:color/black"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignLeft="@+id/author_name"
+                        android:layout_alignStart="@+id/author_name"
+                        android:paddingLeft="20dp"
+                        android:layout_marginTop="10dp" />
+
+                    <TextView
+                        android:text="TextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/author_name"
+                        android:layout_below="@+id/book_name"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:textColor="@android:color/black"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:text="TextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/point"
+                        android:layout_below="@+id/author_name"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:textColor="@android:color/black"
+                        android:textSize="18sp" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+             <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/summary"
+                android:layout_below="@+id/point"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                 android:layout_marginTop="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp">
+
+                <Button
+                    android:text="I have"
+                    android:onClick="setOwnerListener"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/set_owner"
+                    android:background="@android:color/holo_blue_dark"
+                    android:textColor="@android:color/white"
+                    android:textStyle="normal|bold"
+                    android:layout_below="@+id/summary"
+                    android:layout_toRightOf="@+id/remove_owner" />
+
+                <Button
+                    android:text="I don't have"
+                    android:onClick="removeOwnerListener"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/remove_owner"
+                    android:background="@android:color/holo_blue_dark"
+                    android:textColor="@android:color/white"
+                    android:textStyle="normal|bold"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:layout_alignBaseline="@+id/set_owner"
+                    android:layout_alignBottom="@+id/set_owner"
+                    android:layout_alignLeft="@+id/summary"
+                    android:layout_alignStart="@+id/summary"
+                    android:textSize="14sp"
+                    android:layout_marginLeft="20dp" />
+
+            </LinearLayout>
+
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TableLayout
+                        android:layout_width="421dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/owners"
+                        android:layout_below="@+id/set_owner"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:background="@android:color/white"
+                        android:layout_marginTop="40dp">
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/border">
+
+                            <TextView
+                                android:text="Who Is There?"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:padding="8dip"
+                                android:id="@+id/textView11"
+                                android:textSize="22sp"
+                                android:textColor="@android:color/background_light"
+                                android:textStyle="normal|bold"
+                                android:layout_marginLeft="-10dp" />
+
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/border"
+                            android:layout_gravity="center">
+
+                            <TextView
+                                android:text="Name"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/textView6"
+                                android:textColor="@android:color/white"
+                                android:textStyle="normal|bold"
+                                android:textSize="18sp"
+                                android:padding="8dp"
+                                android:layout_marginLeft="-10dp" />
+
+                            <TextView
+                                android:text="E-posta"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="8dip"
+                                android:id="@+id/textView7"
+                                android:textColor="@android:color/white"
+                                android:textStyle="normal|bold"
+                                android:textSize="18sp"
+                                android:layout_marginLeft="50dp" />
+
+                        </TableRow>
+                    </TableLayout>
+                </LinearLayout>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

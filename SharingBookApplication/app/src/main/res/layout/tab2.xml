@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/tab2_content">
+
+
+<include layout="@layout/header"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:visibility="visible"
+        android:layout_alignParentTop = "true" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:text="If your book is not on the books list, please notify us the name of the book and author.You can also contact us via e-mail or WhatsApp."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/black"
+                android:paddingLeft="10dp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:text="Book Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name"
+                android:layout_alignLeft="@+id/name"
+                android:layout_alignStart="@+id/name"
+                android:textSize="18sp"
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/black"
+                android:paddingLeft="10dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:id="@+id/book_name"
+                android:textCursorDrawable="@drawable/cursor_color"
+                android:background="@android:color/holo_blue_dark"
+                android:textColor="@android:color/white"
+                android:width="150dp"
+                android:textSize="18sp"
+                android:textColorHint="#FFFFFF"
+                android:minHeight="34dp"
+                android:hint="Book Name"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="30dp"
+                android:paddingLeft="10dp"
+                android:inputType="textPersonName" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:text="Author Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:paddingLeft="10dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:id="@+id/author_name"
+                android:textCursorDrawable="@drawable/cursor_color"
+                android:background="@android:color/holo_blue_dark"
+                android:textColor="@android:color/white"
+                android:width="150dp"
+                android:textSize="18sp"
+                android:textColorHint="#FFFFFF"
+                android:minHeight="34dp"
+                android:hint="Author Name"
+                android:layout_marginLeft="17dp"
+                android:paddingLeft="10dp"
+                android:layout_alignBaseline="@+id/authorname"
+                android:layout_alignBottom="@+id/authorname"
+                android:inputType="textPersonName" />
+
+        </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/exit_button"
+        android:background="@android:color/holo_blue_dark"
+        android:textColor="@android:color/white"
+        android:textStyle="normal|bold"
+        android:text="Add Book"
+        android:onClick="addBookListener"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:padding="8dp" />
+
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:layout_width="57dp"
+                    android:layout_height="49dp"
+                    android:src="@drawable/mail512"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp" />
+
+                <TextView
+                    android:text="sharingbookreader@gmail.com"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/black"
+                    android:paddingLeft="10dp"
+                    android:layout_marginTop="20dp" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="57dp"
+                    android:layout_height="49dp"
+                    android:src="@drawable/whatsapp512"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp" />
+
+                <TextView
+                    android:text="0536 331 75 12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/black"
+                    android:paddingLeft="10dp"
+                    android:layout_marginTop="20dp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+</LinearLayout>
